@@ -1,5 +1,6 @@
-# event-stream-store
+>> It turns out somebody already had this idea, and it's called Redux.
 
+# event-stream-store
 
 # example
 ```javascript
